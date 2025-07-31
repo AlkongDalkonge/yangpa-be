@@ -4,7 +4,6 @@
   "description": "양파마켓 Backend Service",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js",
     "start": "node app.js"
   },
   "author": "",
